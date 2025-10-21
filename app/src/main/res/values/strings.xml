@@ -61,4 +61,12 @@
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="next_day_ground_delivery">Next day ground delivery</string>
     <string name="pick_up">Pick up</string>
+    <string name="note_label_text">Note</string>
+    <string name="enter_note_hint">Enter your note here</string>
+    <string name="city_label_text">City</string>
+    <string-array name="cities_array">
+        <item>Kota Bandung</item>
+        <item>Kota Cimahi</item>
+        <item>Kabupaten Bandung</item>
+    </string-array>
 </resources>
